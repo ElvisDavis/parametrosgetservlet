@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="holamundoservlet">
+    <output-path>$PROJECT_DIR$/out/artifacts/holamundoservlet</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="holamundoservlet" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="holamundoservlet/web/Web" />
+    </root>
+  </artifact>
+</component>
